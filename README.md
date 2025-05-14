@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jus-tin-16
 - 👀 I’m interested in Technology & Arts
-- 🌱 I’m currently learning IoT and Blockchain
+- 🌱 I’m currently learning IoT and VR Game Development
 - 💞️ I’m looking to collaborate on Tech experts and developers
 - 📫 How to reach me: 1600006@ub.edu.ph
 - 😄 Pronouns: He/him
