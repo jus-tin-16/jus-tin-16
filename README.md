@@ -2,7 +2,7 @@
 - 👀 I’m interested in Technology & Arts
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Tech experts and developers
-- 📫 How to reach me: justinaleta.dev@gmail.com
+- 📫 How to reach me: [📧 Email Me](mailto:justinaleta.dev@gmail.com)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Full of surprises
 
