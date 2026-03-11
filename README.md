@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jus-tin-16
+- 👋 Hi, I’m Justin
 - 👀 I’m interested in Technology & Arts
-- 🌱 I’m currently learning IoT and VR Game Development
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Tech experts and developers
-- 📫 How to reach me: 1600006@ub.edu.ph
+- 📫 How to reach me: justinaleta.dev@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Full of surprises
 
