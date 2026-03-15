@@ -1,6 +1,6 @@
 # Hi, I'm Justin 👋
 
-IT graduate who ships real products to real users.
+Graduating IT students who ships real products to real users.
 Currently building toward backend systems 
 in Python and AWS.
 
