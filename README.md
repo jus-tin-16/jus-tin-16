@@ -1,10 +1,48 @@
-- 👋 Hi, I’m Justin
-- 👀 I’m interested in Technology & Arts
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Tech experts and developers
-- 📫 How to reach me: [📧 Email Me](mailto:justinaleta.dev@gmail.com)
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: Full of surprises
+# Hi, I'm Justin 👋
+
+IT graduate who ships real products to real users.
+Currently building toward backend systems 
+in Python and AWS.
+
+## What I've Shipped
+→ **ParcelSync** — Delivery management system 
+  deployed at Telectronic Systems Inc. (Makati). 
+  CEO approved and deployed at TSI properties. (pre-release v1.0.0-alpha)
+
+→ **UBian LifeStar** — VR mobile game deployed 
+  for University of Batangas Elementary Campus. Official turnover 
+  pending. It has been tested by Grade 4 users.
+
+→ **AquaNova** — IoT real-time water quality 
+  monitoring system. Built and delivered 
+  in 5 weeks.
+
+## Currently Building
+→ Completing DataCamp Associate Python Developer 
+  (April 2026)
+
+## Tech Stack
+Java | TypeScript | JavaScript | C# | C/C++
+| React | Next.js | Tailwind | Supabase | Vercel
+| Solidity | Polkadot
+| AppSheet | Git | Arduino | Adobe Creative Suite
+
+## Currently Learning
+Python | FastAPI | AWS
+
+## Background
+→ BS Information Technology — University of 
+  Batangas (2026)
+→ AWS Certified Cloud Practitioner
+→ CompTIA IT Fundamentals+
+→ TESDA Gold — Regional Skills Competition 
+  (Graphic Design Technology)
+→ TESDA Bronze — National Skills Competition 
+  (Graphic Design Technology)
+
+## Connect
+[LinkedIn](your-link) | [📧 Email](mailto:justinaleta@gmail.com)
+
 
 <!---
 jus-tin-16/jus-tin-16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
