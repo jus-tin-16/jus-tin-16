@@ -5,9 +5,6 @@ Currently building toward backend systems
 in Python and AWS.
 
 ## What I've Shipped
-→ **ParcelSync** — Delivery management system 
-  deployed at Telectronic Systems Inc. (Makati). 
-  CEO approved and deployed at TSI properties. (pre-release v1.0.0-alpha)
 
 → **UBian LifeStar** — VR mobile game deployed 
   for University of Batangas Elementary Campus. Official turnover 
@@ -20,6 +17,8 @@ in Python and AWS.
 ## Currently Building
 → Completing DataCamp Associate Python Developer 
   (April 2026)
+  
+→ **ParcelSync** — Delivery management system (pre-release v1.0.0-alpha)
 
 ## Tech Stack
 Java | TypeScript | JavaScript | C# | C/C++
