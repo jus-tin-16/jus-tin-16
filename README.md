@@ -15,10 +15,8 @@ in Python and AWS.
   in 5 weeks.
 
 ## Currently Building
-→ Completing DataCamp Associate Python Developer 
-  (April 2026)
-  
-→ **ParcelSync** — Delivery management system (pre-release v1.0.0-alpha)
+→ Web version of ParcelSync
+→ Github Foundations Certification
 
 ## Tech Stack
 Java | TypeScript | JavaScript | C# | C/C++
