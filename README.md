@@ -16,6 +16,7 @@ in Python and AWS.
 
 ## Currently Building
 → Web version of ParcelSync
+
 → Github Foundations Certification
 
 ## Tech Stack
