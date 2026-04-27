@@ -15,9 +15,10 @@ in Python and AWS.
   in 5 weeks.
 
 ## Currently Building
-→ Web version of ParcelSync
+→ E-portfolio
 
-→ Github Foundations Certification
+→ Python Backend Mastery
+
 
 ## Tech Stack
 Java | TypeScript | JavaScript | C# | C/C++
